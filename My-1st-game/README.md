@@ -15,7 +15,9 @@ Anyways, I hope you enjoy it.
 
 
 How to run the file:
-1. First download all the files. Direct Link: https://github.com/62Shivam/CT-Projects/releases/download/v1.0/Maze-Game.zip
-2. Run "run.bat" file present as shown in the image.
+1. First download all the files.
+
+    Direct Link: https://github.com/62Shivam/CT-Projects/releases/download/v1.0/Maze-Game.zip
+3. Run "run.bat" file present as shown in the image.
 
 <img width="285" height="324" alt="Screenshot 2026-06-02 153458" src="https://github.com/user-attachments/assets/4135d15f-384f-475c-9171-736f039a5614" />
